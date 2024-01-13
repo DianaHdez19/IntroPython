@@ -17,5 +17,3 @@ print(valorDecimal)
 
 edad = 110
 print(len(str(edad)))
-
-
